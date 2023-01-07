@@ -1,0 +1,103 @@
+.header-bgrnd{
+    background-image: url(../images/banner/banner3.png);
+    width: 1600px;
+    height: 800px;
+    
+}
+.alignment{
+    text-align: right;
+    margin-right: 250px;
+    font-size: x-large;
+}
+.btn-bg{
+    
+    width: 160px;
+    height: 64px;
+    border-radius: 10px;
+}
+.person{
+    
+    margin-left: 250px;
+}
+.tension{
+
+}
+.middle{
+    display: flex;
+}
+ul{
+    list-style: none;
+     
+}
+
+  
+  ul li:before {
+    content: '✓';
+  }
+.my-plan{
+    text-align: center;
+}
+.main-body{
+    display: flex;
+}
+nav{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 50px;
+    margin-right:50px ;
+}
+.banner-card{
+    position: relative;
+}
+.banner-card img{
+    width: 1150px;
+    height: 300px;
+}
+.banner-text{
+    position: absolute;
+    margin-left: 50px;
+    font-size: x-large;
+    color: white;
+}
+.full-banner{
+    background-image: url(../images/watch.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+.call-btn{
+    font-size: larger;
+    border: 160px 60px;
+    padding: 40px;
+
+}
+footer{
+    width: 1600px;
+    height: 580px;
+    color: white;
+    background-color: black;
+    display: flex;
+}
+.left-footer{
+    margin: 230px 130px;
+}
+.sub-btn{
+    background-color: ;
+    color: white;
+    border-width: 170px;
+}
+button{
+    color: white;
+    background-color: chocolate;
+    margin-top: 50px;
+    border-radius: 5px;
+    
+    
+    
+}
+.right-footer{
+    margin: 330px 200px;
+}
+    
+    
